@@ -1,0 +1,6 @@
+rasterio
+matplotlib
+cv2
+torch
+kornia
+kornia_moons

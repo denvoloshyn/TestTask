@@ -1,0 +1,4 @@
+A link to the archive fewnerd-mountains-model.zip with the pretrained model and tokenizer
+The unpacked folder fewnerd-mountains-model should be in the same folder as this file
+
+https://drive.google.com/file/d/1eMzeyEpfaJ_No3AUDVYW-EZB0goH3ZQg/view?usp=drive_link

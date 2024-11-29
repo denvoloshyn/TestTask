@@ -1,0 +1,4 @@
+A link to supervised Few-NERD dataset
+The unpacked folder fewnerd should be in the same folder as this file
+
+https://drive.google.com/file/d/1lJUaVfiydyVfiPuSmEtEix7jYn4s1XEp/view?usp=drive_link
